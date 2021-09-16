@@ -1,4 +1,4 @@
-# mpd-os-remastered
+# MediaPlay OS (formerly mpd-os-remastered)
 Not an actual OS, but we're doing it just for fun!
 
 ## Okay, but will it be an actual OS in the future?
@@ -15,3 +15,6 @@ We know about this. One of us had an idea in mind to make it in Scratch - which 
 
 ## Can I submit ideas?
 You can submit by going to the Issues section of this repository, thanks!
+
+## What's with MediaPlay OS and MPD OS?
+We've decided to change the name of the project since we're not affiliated with Discord or anything.
