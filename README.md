@@ -1,3 +1,9 @@
+This is Linerly's iteration of MediaPlay OS, created using [Scratch](https://sheeptester.github.io/scratch-gui/index.html?width=1366&height=768&username=Guest&fps=60&load_griffpatch=false).
+
+Source files (*.sb3) will be in /source.
+
+---
+
 # MediaPlay OS (formerly mpd-os-remastered)
 Not an actual OS, but we're doing it just for fun!
 
