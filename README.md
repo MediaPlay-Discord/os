@@ -2,6 +2,14 @@ This is Linerly's iteration of MediaPlay OS, created using [Scratch](https://she
 
 Source files (*.sb3) will be in /source.
 
+The web version converted from the sb3 file does has some problems, but these will be fixed after a while.
+
+---
+
+## Some tools that I used
+- [TurboWarp Packager](https://packager.turbowarp.org)
+- [E羊icques](https://sheeptester.github.io/scratch-gui/) - A Scratch mod with a custom aspect ratio that can load an extension from a URL, although this might be replaced with TurboWarp's desktop app soon as it sometimes break things
+
 ---
 
 # MediaPlay OS
