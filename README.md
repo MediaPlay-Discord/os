@@ -1,6 +1,8 @@
 # MediaPlay OS
 Not an actual OS, but we're doing it just for fun!
 
+It has several versions of it, [one made in Scratch by Linerly in the `linerly` branch](https://github.com/MediaPlay-Discord/os/tree/linerly), and one made using PowerPoint by Linerly as well in the `main` branch
+
 ## Okay, but will it be an actual OS in the future?
 We're not sure about it, but let's see what we will decide later.
 
