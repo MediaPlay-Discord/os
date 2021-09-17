@@ -1,4 +1,4 @@
-# MediaPlay OS (formerly mpd-os-remastered)
+# MediaPlay OS
 Not an actual OS, but we're doing it just for fun!
 
 ## Okay, but will it be an actual OS in the future?
