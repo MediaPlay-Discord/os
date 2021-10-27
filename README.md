@@ -56,4 +56,4 @@ We know about this. One of us had an idea in mind to make it in Scratch - which 
 You can submit by going to the Issues section of this repository, thanks!
 
 ## What's with MediaPlay OS and MPD OS?
-We've decided to change the name of the project since we're not affiliated with Discord or anything.
+We decided to change the name of the project since we're not affiliated with Discord or anything.
