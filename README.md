@@ -1,7 +1,9 @@
+# Linerly's PowerPoint version of MediaPlay OS has been deprecated; it will not be updated anymore. This branch is an archive of it.
+
+---
+
 # MediaPlay OS
 Not an actual OS, but we're doing it just for fun!
-
-It has several versions of it, [one made in Scratch by Linerly in the `linerly` branch](https://github.com/MediaPlay-Discord/os/tree/linerly), and one made using PowerPoint by Linerly as well in the `main` branch
 
 ## Okay, but will it be an actual OS in the future?
 We're not sure about it, but let's see what we will decide later.
@@ -12,8 +14,8 @@ This remastered version will include more features, including a polished install
 ## Can I help?
 Although it's being worked on by 3 people - UN4YA, Dimitris Savu, and Linerly - you could help by making new assets and UI designs!
 
-## Why bother using PowerPoint? It's proprietary.
-We know about this. One of us had an idea in mind to make it in Scratch - which technically has a lot more features than PowerPoint - but most of us can use PowerPoint or any other program (like LibreOffice Impress, which Linerly uses it) anyway.
+## ~~Why bother using PowerPoint? It's proprietary.~~
+~~We know about this. One of us had an idea in mind to make it in Scratch - which technically has a lot more features than PowerPoint - but most of us can use PowerPoint or any other program (like LibreOffice Impress, which Linerly uses it) anyway.~~
 
 ## Can I submit ideas?
 You can submit by going to the Issues section of this repository, thanks!
