@@ -49,8 +49,8 @@ This remastered version will include more features, including a polished install
 ## Can I help?
 Although it's being worked on by 3 people - UN4YA, Dimitris Savu, and Linerly - you could help by making new assets and UI designs!
 
-## Why bother using PowerPoint? It's proprietary.
-We know about this. One of us had an idea in mind to make it in Scratch - which technically has a lot more features than PowerPoint - but most of us can use PowerPoint or any other program (like LibreOffice Impress, which Linerly uses it) anyway.
+## ~~Why bother using PowerPoint? It's proprietary.~~
+~~We know about this. One of us had an idea in mind to make it in Scratch - which technically has a lot more features than PowerPoint - but most of us can use PowerPoint or any other program (like LibreOffice Impress, which Linerly uses it) anyway.~~ Linerly's PowerPoint version of MediaPlay OS has been deprecated. Scratch will be used instead of PowerPoint.
 
 ## Can I submit ideas?
 You can submit by going to the Issues section of this repository, thanks!
