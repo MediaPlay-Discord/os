@@ -12,6 +12,13 @@ The web version of it can be used at https://mediaplay-discord.github.io/os. It'
 
 ---
 
+## How does it work, really?
+It's essentially a web desktop. Since it's created using TurboWarp (fork of Scratch), and converted using TurboWarp Packager, it uses a canvas (which uses WebGL) to render things in your browser.
+
+...though some time in the future it will be recreated (again) without using TurboWarp, essentially making MediaPlay OS again with plain HTML, JavaScript, and CSS. (and even more maybe)
+
+(note that if you refresh the page in the web version, you'll start over.)
+
 ## Will it be an actual OS in the future?
 I'm not sure about it, but let's see what I'll will decide later.
 
