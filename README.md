@@ -46,7 +46,7 @@ Sure! You can...
 ~~We know about this. One of us had an idea in mind to make it in Scratch - which technically has a lot more features than PowerPoint - but most of us can use PowerPoint or any other program (like LibreOffice Impress, which Linerly uses it) anyway.~~ Linerly's PowerPoint version of MediaPlay OS has been deprecated. Scratch will be used instead of PowerPoint.
 
 ## Can I submit ideas?
-You can submit your ideas in the issue tracker, thanks!
+You can submit your ideas in the Discussions section, thanks!
 
 ## What's with MediaPlay OS and MPD OS?
 I decided to change the name of the project since we're not affiliated with Discord or anything.
