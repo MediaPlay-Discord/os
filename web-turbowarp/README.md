@@ -1,4 +1,8 @@
 
+# This will be deprecated soon enough. MediaPlay OS will be created again without using TurboWarp!
+
+---
+
 # MediaPlay OS
 *Not an actual operating system... yet.*
 
@@ -6,7 +10,7 @@
 
 This is Linerly's iteration of MediaPlay OS, created using ~~Scratch~~ TurboWarp.
 
-The Scratch project file (*.sb3) is in /source.
+The Scratch project file (*.sb3) is in source.
 
 The web version of it can be used at https://mediaplay-discord.github.io/os. It's not polished yet, but be aware that there may be some problems in the web version, these will be fixed after a while. (by using another Scratch 3 to HTML converter)
 
