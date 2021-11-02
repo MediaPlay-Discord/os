@@ -16,7 +16,7 @@ body {
   margin: auto;
   background-size: auto;
   background-size: cover;
-  background-image: url(/extras/assets/arts/wallpapers/Wallpaper-Family-1-Themed.svg);
+  background-image: url(extras/assets/arts/wallpapers/Wallpaper-Family-1-Themed.svg);
 
   display: grid;
   grid-template-rows: max-content;
