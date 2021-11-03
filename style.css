@@ -166,6 +166,7 @@ progress {
 }
 .dock {
   position: absolute;
+  bottom: 0;
   align-self: end;
   justify-self: center;
   display: grid;
@@ -188,11 +189,6 @@ progress {
 }
 
 @keyframes startDock {
-  from {bottom: -500px;} 
-  to{bottom:0px;}
-}
-
-.app {
-  display: block;
-  text-align: center;
+  from { bottom: -500px; }
+  to { bottom: 0px; }
 }
