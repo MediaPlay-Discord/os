@@ -3,5 +3,5 @@
 setTimeout(() => { startDock() }, 3000);
 
 function startDock() {
-    console.log("dock started.");
+    console.log("Dock started.");   
 }
