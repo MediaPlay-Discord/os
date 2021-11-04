@@ -1,5 +1,5 @@
 # MediaPlay OS
-*Next*.
+*This is my side-project for now as I have lots of things to do.*
 
 ## What's with this new version?
 No WebGL (most of the time). Currently there's no proper boot screen and dock yet.
