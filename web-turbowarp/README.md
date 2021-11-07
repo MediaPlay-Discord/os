@@ -1,5 +1,5 @@
 
-# This will be deprecated soon enough. MediaPlay OS will be created again without using TurboWarp!
+# This will be deprecated soon enough (probably). MediaPlay OS will be created again without using TurboWarp!
 
 ---
 
