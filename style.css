@@ -166,7 +166,7 @@ progress {
 }
 .dock {
   position: absolute;
-  bottom: 0;
+  bottom: -15px;
   align-self: end;
   justify-self: center;
   display: grid;
@@ -188,7 +188,17 @@ progress {
   animation-duration: 2s;
 }
 
+.dock:hover {
+  transform:translateY(-5px);
+  transition: all .2s ease-out;
+}
+
+.dock:not(:hover) {
+  transform:translateY(5px);
+  transition: all .2s ease-out;
+}
+
 @keyframes startDock {
   from { bottom: -500px; }
-  to { bottom: 0px; }
+  to { bottom: -15px; }
 }
