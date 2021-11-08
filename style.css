@@ -164,6 +164,7 @@ progress {
   display: grid;
   grid-template: 100%/100%;
 }
+
 .dock {
   position: absolute;
   bottom: -15px;
@@ -187,18 +188,22 @@ progress {
   animation-name: startDock;
   animation-duration: 2s;
 }
-
 .dock:hover {
   transform:translateY(-5px);
   transition: all .2s ease-out;
 }
-
 .dock:not(:hover) {
   transform:translateY(5px);
   transition: all .2s ease-out;
 }
-
 @keyframes startDock {
   from { bottom: -500px; }
   to { bottom: -15px; }
+}
+
+.app {
+  filter: drop-shadow(0px 2px 4px rgb(0, 0, 0, 0.4));
+}
+.app:hover {
+  filter: brightness(1.25);
 }
